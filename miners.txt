@@ -1,0 +1,4 @@
+# TamaFi CYD - devices allowed to use the Miner
+# One device number per line (shown on the device: Settings > Miner).
+# Lines starting with # are comments.
+07085457
